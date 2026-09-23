@@ -8,3 +8,5 @@ spacy==3.8.14
 nltk==3.10.3
 tokenizers==0.23.1
 pymupdf==1.28.0 
+gensim==4.4.0
+nbformat>=4.2.0
